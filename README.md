@@ -1,5 +1,3 @@
-<!-- GitHub README: Paranthagan S -->
-
 <h1 align="center">Hi, I'm Paranthagan S</h1>
 <h3 align="center">IT Undergraduate at SSN | AI/ML Enthusiast | Hackathon Innovator</h3>
 
