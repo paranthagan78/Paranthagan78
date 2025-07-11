@@ -1,56 +1,100 @@
-<h1 align="center">Hi, I'm Paranthagan S</h1>
-<h3 align="center">IT Undergraduate at SSN | AI/ML Enthusiast | Hackathon Innovator</h3>
+# Hi there, I'm Paranthagan S 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Undergraduate+at+SSN+College;AI%2FML+Enthusiast;Hackathon+Innovator;Deep+Learning+and+GenAI+Explorer" alt="Typing SVG" />
+</div>
 
 ---
 
-🎓 I’m currently pursuing a B.Tech in Information Technology at SSN College of Engineering, driven by a passion for Artificial Intelligence and Machine Learning.  
-🚀 I explore real-world applications of Deep Learning and Generative AI, especially in mission-critical domains like defense, space, and national research institutions such as DRDO, ISRO, and IIT.  
-💡 I thrive in hackathons and innovation challenges, where I push boundaries, apply my skills under pressure, and develop purposeful solutions that make a real-world impact.
+## 🚀 About Me
+
+Currently pursuing B.Tech in Information Technology at SSN College of Engineering. Passionate about Artificial Intelligence, Machine Learning, and Software Development. Focused on mission critical applications in defense, space, and national research. Active participant in hackathons and innovation challenges. Driven by creating purposeful solutions with real world impact.
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
+## 🌐 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/paranthagan-s-6477b7257/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/paranthagan_s/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="36" height="36"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-</p>
+  <a href="https://github.com/paranthagan78" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-### ⚙️ Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,java,js" alt="Programming Languages"/>
+</div>
+
+### AI/ML & Data Science
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,scipy" alt="AI/ML Tools"/>
+</div>
+
+### Databases & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,postman,arduino" alt="Tools and Databases"/>
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paranthagan78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paranthagan78&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paranthagan78&theme=radical" alt="GitHub Streak" />
-</p>
+---
+
+## 🎯 Current Focus
+
+- 🏗️ **Building**: Building AI powered solutions creating purposeful, impactful, and real world projects
+- 📚 **Learning**: Deepening expertise in Deep Learning, Image Processing, Generative AI, and Google Cloud.
+- 🤝 **Collaborating**: Open to innovative, real world, result driven, and impactful projects
+- 🏆 **Participating**: Actively engaged in hackathons and competitive programming
+- 👥 **Leadership**: Strong team player with decision-making and problem-solving skills
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paranthagan78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=paranthagan78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>"The only way to do great work is to love what you do" - Steve Jobs</h3>
+</div>
