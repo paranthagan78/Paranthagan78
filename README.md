@@ -96,5 +96,5 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
 ---
 
 <div align="center">
-  <h3>"The only way to do great work is to love what you do" - Steve Jobs</h3>
+  <h2>The only way to do great work is to love what you do</h2>
 </div>
