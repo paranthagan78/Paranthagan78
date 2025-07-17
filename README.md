@@ -37,19 +37,23 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
 
 ### AI/ML & Data Science
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,scipy" alt="AI/ML Tools"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="AI/ML Tools"/>
 </div>
 
-### Databases & Tools
+### Databases & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,postman,arduino" alt="Tools and Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,nodejs" alt="Tools and Frameworks"/>
+</div>
+
+### Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,arduino,vscode,anaconda" alt="Tools and Databases"/>
 </div>
 
 ### Frameworks & Libraries
 <div align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </div>
 
