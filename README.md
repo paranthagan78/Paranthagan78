@@ -85,9 +85,9 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paranthagan78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=paranthagan78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=Followers,Commits,Repositories,Experience" alt="GitHub Trophies"/>
+</p>
 
 ---
 
