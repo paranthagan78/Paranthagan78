@@ -1,7 +1,7 @@
 # Hi there, I'm Paranthagan S 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Undergraduate+at+SSN+College;AI%2FML+Enthusiast;Hackathon+Innovator;Deep+Learning+and+GenAI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Undergraduate+at+SSN+College;AI%2FML+Enthusiast;Hackathon+Innovator" alt="Typing SVG" />
 </div>
 
 ---
