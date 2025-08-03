@@ -103,5 +103,6 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
 ---
 
 <div align="center">
-  <h2>The only way to do great work is to love what you do ✨</h2>
+  <h2>The Only Way To Do Great Work Is To Love What You Do ✨</h2>
+  <h2>You Will Never Change Your Life Until You Change Something You Do Daily. The Secret Of Your Success Is Found In Your Daily Routine ✨</h2>
 </div>
