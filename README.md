@@ -94,15 +94,7 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
 
 ---
 
-## 📈 Profile Views
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=paranthagan78&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
-  <h2>The Only Way To Do Great Work Is To Love What You Do ✨</h2>
-  <h2>You Will Never Change Your Life Until You Change Something You Do Daily. The Secret Of Your Success Is Found In Your Daily Routine ✨</h2>
+  <h3>The Only Way To Do Great Work Is To Love What You Do ✨</h3>
+  <h3>You Will Never Change Your Life Until You Change Something You Do Daily. The Secret Of Your Success Is Found In Your Daily Routine ✨</h3>
 </div>
