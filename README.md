@@ -8,7 +8,15 @@
 
 ## 🚀 About Me
 
-Currently pursuing B.Tech in Information Technology at SSN College of Engineering. Passionate about Artificial Intelligence, Machine Learning, and Software Development. Focused on mission critical applications in defense, space, and national research. Active participant in hackathons and innovation challenges. Driven by creating purposeful solutions with real world impact.
+<div align="justify">
+I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas of interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networks, and Software Engineering. I have also participated in more than 15 national level hackathons, applying my skills to domains such as fintech, healthcare, education, sustainability, retail, and agriculture.
+</div>
+
+<br>
+
+<div align="justify">
+My work focuses on creating AI powered solutions that are practical, impactful, and address real world challenges. I am continually expanding my expertise in Deep Learning, Image Processing, and Generative AI, while staying updated with the latest advancements in technology. I bring strong leadership, decision making, and teamwork skills, developed through high energy, time sensitive environments such as hackathons. I thrive in collaborative settings where diverse ideas are transformed into effective, working solutions.
+</div>
 
 ---
 
@@ -59,30 +67,19 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Live Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paranthagan78&theme=tokyonight)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night)
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=paranthagan78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🏗️ **Building**: Building AI powered solutions creating purposeful, impactful, and real world projects
-- 📚 **Learning**: Deepening expertise in Deep Learning, Image Processing, Generative AI, and Google Cloud.
-- 🤝 **Collaborating**: Open to innovative, real world, result driven, and impactful projects
-- 🏆 **Participating**: Actively engaged in hackathons and competitive programming
-- 👥 **Leadership**: Strong team player with decision-making and problem-solving skills
 
 ---
 
@@ -98,3 +95,5 @@ Currently pursuing B.Tech in Information Technology at SSN College of Engineerin
   <h3>The Only Way To Do Great Work Is To Love What You Do ✨</h3>
   <h3>You Will Never Change Your Life Until You Change Something You Do Daily. The Secret Of Your Success Is Found In Your Daily Routine ✨</h3>
 </div>
+
+---
