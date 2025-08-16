@@ -71,14 +71,22 @@ My work focuses on creating AI powered solutions that are practical, impactful, 
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paranthagan78&theme=tokyonight)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night)
+</div>
 
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paranthagan78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  
 </div>
 
 ---
