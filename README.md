@@ -70,23 +70,31 @@ My work focuses on creating AI powered solutions that are practical, impactful, 
 ## 📊 GitHub Live Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats"/>
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paranthagan78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=paranthagan78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
+---
+
+## 📈 Contribution Graph
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
+</div>
+<!-- Alternative Contribution Visualizations -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paranthagan78&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 ---
