@@ -79,32 +79,6 @@ My work focuses on creating AI powered solutions that are practical, impactful, 
   
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=paranthagan78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paranthagan78&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
-</div>
-<!-- Alternative Contribution Visualizations -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paranthagan78&theme=tokyonight" alt="GitHub Profile Summary"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=paranthagan78&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=Followers,Commits,Repositories,Experience" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 <div align="center">
