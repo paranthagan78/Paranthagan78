@@ -74,7 +74,8 @@ My work focuses on creating AI powered solutions that are practical, impactful, 
   <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats"/>
 </div>
-
+  <!-- Top Languages Card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
 ---
 
 <div align="center">
