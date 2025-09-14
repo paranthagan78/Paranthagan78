@@ -67,7 +67,7 @@ My work focuses on creating AI powered solutions that are practical, impactful, 
 
 ---
 
-## 📊 GitHub Live Stats
+## 📊 GitHub Live Statistics
 
 <div align="center">
   
