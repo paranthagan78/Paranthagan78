@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <div align="justify">
-I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas of interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networks, and Software Engineering. I have also participated in more than 15 national level hackathons, applying my skills to domains such as fintech, healthcare, education, sustainability, retail, and agriculture.
+I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas of interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networks, and Software Engineering. I have also participated in 18 national level hackathons, applying my skills to domains such as fintech, healthcare, education, sustainability, retail, and agriculture.
 </div>
 
 <br>
