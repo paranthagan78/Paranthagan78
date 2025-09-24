@@ -15,7 +15,7 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
 <br>
 
 <div align="justify">
-My work focuses on creating AI powered solutions that are practical, impactful, and address real world challenges. I am continually expanding my expertise in Deep Learning, Image Processing, and Generative AI, while staying updated with the latest advancements in technology. I bring strong leadership, decision making, and teamwork skills, developed through high energy, time sensitive environments such as hackathons. I thrive in collaborative settings where diverse ideas are transformed into effective, working solutions.
+My work focus on creating AI powered solutions that are practical, impactful, and address real world challenges. I am continually expanding my expertise in Deep Learning, Image Processing, and Generative AI, while staying updated with the latest advancements in technology. I bring strong leadership, decision making, and teamwork skills, developed through high energy, time sensitive environments such as hackathons. I thrive in collaborative settings where diverse ideas are transformed into effective, working solutions.
 </div>
 
 ---
