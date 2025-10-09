@@ -80,7 +80,7 @@ My work focus on creating AI powered solutions that are practical, impactful, an
 ---
 
 <div align="center">
-  <h3>The Only Way To Do Great Work Is To Love What You Do ✨</h3>
+  <h3>The Only Way To Do Great Work Is To Love What You Do </h3>
   <h3>You Will Never Change Your Life Until You Change Something You Do Daily. The Secret Of Your Success Is Found In Your Daily Routine ✨</h3>
 </div>
 
