@@ -62,8 +62,7 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
 ---
 
 ## 📊 GitHub Live Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=paranthagan78&theme=tokyonight)
 
 ---
 
