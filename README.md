@@ -60,15 +60,7 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
 </div>
 
 ---
-
-## 📊 GitHub Live Statistics
-![GitHub Streak](https://streak-stats.demolab.com?user=paranthagan78&theme=tokyonight)
-
----
-
 <div align="center">
   <h3>The Only Way To Do Great Work Is To Love What You Do ✨</h3>
   <h3>You Will Never Change Your Life Until You Change Something You Do Daily. The Secret Of Your Success Is Found In Your Daily Routine ✨</h3>
 </div>
-
----
