@@ -1,7 +1,7 @@
 # Hi, I'm Paranthagan S 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Undergraduate+at+SSN+College;AI%2FML+Enthusiast;Hackathon+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Undergrad+at+SSNCE;AI%2FML+Enthusiast;Hackathon+Innovator" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,12 +10,6 @@
 
 <div align="justify">
 I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas ofch interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networking, and Software Engineering. I have actively participated in 15+ national level hackathons, focusing on rapid prototyping and real world problem solving.
-</div>
-
-<br>
-
-<div align="justify">
-My work focuses on creating AI powered solutions that are practical, impactful, and address real world challenges. I am continually expanding my expertise in Deep Learning, Image Processing, and Generative AI, while staying updated with the latest advancements in technology. I bring strong leadership, decision making, and teamwork skills, developed through high energy, time sensitive environments such as hackathons. I thrive in collaborative settings where diverse ideas are transformed into effective, working solutions.
 </div>
 
 ---
