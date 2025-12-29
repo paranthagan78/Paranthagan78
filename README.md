@@ -68,13 +68,9 @@ My work focuses on creating AI powered solutions that are practical, impactful, 
 ---
 
 ## 📊 GitHub Live Statistics
-
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats"/>
-  <!-- Top Languages Card -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 ---
