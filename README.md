@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <div align="justify">
-I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas ofch interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networking, and Software Engineering. I have actively participated in 15+ national level hackathons, focusing on rapid prototyping and real world problem solving.
+I am currently pursuing a B.Tech in Information Technology at SSN College of Engineering, with a strong foundation in Python and SQL. I am passionate about Artificial Intelligence, Machine Learning, and Software Development. My current areas of interest include Deep Learning and Generative AI. Over the course of my studies, I have gained knowledge in Database Management Systems, Data Structures, Machine Learning, Operating Systems, Computer Networking, and Software Engineering. I have actively participated in 15+ national level hackathons, focusing on rapid prototyping and real world problem solving.
 </div>
 
 ---
@@ -62,10 +62,8 @@ I am currently pursuing a B.Tech in Information Technology at SSN College of Eng
 ---
 
 ## 📊 GitHub Live Statistics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight" height="180" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paranthagan78&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paranthagan78&layout=compact&theme=tokyonight)
 
 ---
 
